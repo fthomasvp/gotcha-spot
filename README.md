@@ -1,1 +1,3 @@
 # gotchaspot
+
+## How To Use
